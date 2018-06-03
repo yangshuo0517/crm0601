@@ -9,6 +9,7 @@ public class HelloGitHub {
 		System.out.println("local 收到");
 		System.out.println("github3 你好");
 		System.out.println("github4 你好");
+		System.out.println("66666666666666");
 		
 	}
 	
