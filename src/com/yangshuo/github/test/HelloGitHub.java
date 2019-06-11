@@ -11,6 +11,8 @@ public class HelloGitHub {
 		System.out.println("github4 你好");
 		System.out.println("66666666666666");
 		System.out.println("0601 and here");
+
+		System.out.println("你好啊！");
 	}
 	
 }
