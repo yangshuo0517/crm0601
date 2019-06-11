@@ -14,6 +14,7 @@ public class HelloGitHub {
 
 		System.out.println("你好啊！");
 		System.out.println("你也好啊！");
+		System.out.println("H！");
 	}
 	
 }
